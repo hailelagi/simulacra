@@ -10,9 +10,14 @@ A python repository for learning about modelling and simulation.
 * Various packages from the Anaconda distribution of python3.
 
 ## Resources
--MIT OCW[Link](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/index.html)
+-MIT OCW [Link](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/index.htm)
 
+## Texts
 -Introduction to Computation and Programming Using Python: With Application to Understanding Data by John V. Guttag
+
+-Introduction to Modeling and Simulation with  MATLAB® and Python by Steven I. Gordon and Brian Guilfoos
+
+-A Student’s Guide to Python for Physical Modeling by Jesse M. Kinder and Philip Nelson
 
 ## Link
 
