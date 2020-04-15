@@ -11,6 +11,7 @@ A python repository for learning about modelling and simulation.
 
 ## Resources
 -MIT OCW[Link](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/index.html)
+
 -Introduction to Computation and Programming Using Python: With Application to Understanding Data by John V. Guttag
 
 ## Link
