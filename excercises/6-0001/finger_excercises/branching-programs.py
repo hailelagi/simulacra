@@ -9,8 +9,10 @@ x = random.randint(1, 100)
 y = random.randint(1, 100)
 z = random.randint(1, 100)
 
+# declarative solution
 # print(max(filter(lambda a: a % 2 == 1 or a == 1, [x, y, z]), default="all nums even"))
 
+# imperative solution
 # using branching logic only
 if x > y and x > z and x % 2 == 1:
     print(x)
