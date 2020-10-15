@@ -1,9 +1,5 @@
 # simulacra
-A python repository for learning about modelling and simulation.
-
-## Built With
-
-* Python3.
+A repository for learning about modelling and simulation.
 
 ## Dependencies
 
@@ -18,10 +14,6 @@ A python repository for learning about modelling and simulation.
 -Introduction to Modeling and Simulation with  MATLAB® and Python by Steven I. Gordon and Brian Guilfoos
 
 -A Student’s Guide to Python for Physical Modeling by Jesse M. Kinder and Philip Nelson
-
-## Link
-
-No deployment environment available
 
 ## Licenses
 
