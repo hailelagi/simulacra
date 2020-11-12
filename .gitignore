@@ -1,9 +1,10 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # resources
-/mit
+/resources
 
-# problem sets and textbook
+# videos, problem sets and textbooks (just incase)
+*.mp4
 *.pdf
 *.zip
 
