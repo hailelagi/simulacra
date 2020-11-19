@@ -3,6 +3,9 @@
 # resources
 /resources
 
+# had to switch to py3.6 for whatever reason
+/venv
+
 # videos, problem sets and textbooks (just incase)
 *.mp4
 *.pdf
